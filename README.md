@@ -67,7 +67,6 @@ ui-design-project/
 |   │   |   └── section1.jsx
 |   │   ├── section2/
 |   |   |   └── section2.jsx
-|   |   |
 │   ├── assets/
 |   ├── App.jsx
 |   ├── main.jsx
