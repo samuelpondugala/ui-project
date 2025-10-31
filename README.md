@@ -42,7 +42,7 @@ It emphasizes clean layouts, reusable components, and smooth animations, offerin
 
 ## 🖼️ Project Preview
 
-![UI Design Screenshot](./screenshot.png)
+![UI Design Screenshot](./{5335C4F1-39E2-4457-B2DA-9ACA6C637C31}.png)
 
 ---
 
