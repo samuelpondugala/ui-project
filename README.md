@@ -1,4 +1,4 @@
-```markdown
+
 <div align="center">
   <h1>🎨 UI Design Project (React)</h1>
   <p>A modern, responsive, and elegant user interface built with React.js and Tailwind CSS.</p>
@@ -141,4 +141,4 @@ Frontend Developer | UI/UX Designer
   <h3>⭐ If you like this project, please give it a star on GitHub!</h3>
   <p>Made with ❤️ by <strong>David Samuel</strong></p>
 </div>
-```
+
