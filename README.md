@@ -47,7 +47,7 @@ The design follows a minimal aesthetic with a focus on accessibility and respons
 
 ## 📁 Folder Structure
 
-```
+
 
 ui-design-project/
 ├── public/
@@ -81,7 +81,6 @@ ui-design-project/
 ├── README.md
 └── vite.config.js
 
-````
 
 ---
 
@@ -101,7 +100,7 @@ npm install
 
 # Start the development server
 npm start
-````
+
 
 The app will be live at **[View Live->](https://ui-project-5qlr.onrender.com/)**
 
